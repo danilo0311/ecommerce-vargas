@@ -1,0 +1,40 @@
+body{
+    height: 100vh;
+    margin: 0%;
+}
+.header{
+    display: flex;
+    height: 56px;
+    width: 100%;
+    background-color: rgb(35, 61, 117);
+}
+.header-buttons-wrapper{
+    width: 80%;
+    height: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1%;
+}
+.header-buttons{
+    font-family: 'Roboto', sans-serif;
+    background: none;
+    border-style: none;
+    margin-left: 5%;
+    transition: 0.45s;
+    color: #fff;
+}
+.header-buttons:hover{
+    opacity: 0.77;
+    color: rgb(241, 177, 37);
+    cursor: pointer;
+}
+#company-logo-wrapper{
+    margin-left: 3%;
+    margin-top: 1%;
+    transition: 0.45s;
+}
+#company-logo-wrapper:hover{
+    transform: translateY(2em);
+    color: rgb(207, 204, 183);
+}
