@@ -1,0 +1,40 @@
+body{
+    height: 100vh;
+    margin: 0%;
+}
+.landing-wrapper{
+    display: flex;
+    margin-top: 4%;
+
+}
+#main-description{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+    height: 400px;
+    width: 500px;
+}
+#slider-photo-gallery{
+    display: none;
+}
+legend{
+    font-size: 22px;
+    font-family: 'Varela Round', sans-serif;
+}
+#slider{
+    height: 400px;
+    width: 700px;
+    background-color: black;
+    margin-right: 2%;
+    margin-left: 2%;
+    /* display: inline-block; */
+    border-radius: 12px;
+    /* overflow: hidden; */
+}
+img{
+    width: inherit;
+    height: inherit;
+    border-radius: inherit;
+}
