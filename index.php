@@ -7,10 +7,14 @@
     <!-- CSS -->
     <link rel="stylesheet" href="main/stylesheet/main.css">
     <!-- CSS -->
+    <!-- SCRIPT -->
+    <Script type="module" defer src="main/scripts/xhr.js"></Script>
+    <!-- SCRIPT -->
     <!-- FONTS -->
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet"> 
     <!-- FONTS -->
     <title>Ecommerce vargas&vegas</title>
+    <script type="module">loadFile();</script>
 </head>
 <body> 
     <div class="container">
