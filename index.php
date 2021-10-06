@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- CSS -->
     <link rel="stylesheet" href="main/stylesheet/main.css">
+    <link rel="stylesheet" href="landing-page/stylesheet/landing.css">
     <!-- CSS -->
     <!-- SCRIPT -->
     <Script type="module" defer src="main/scripts/xhr.js"></Script>
