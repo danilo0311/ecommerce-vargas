@@ -4,8 +4,44 @@ body{
 }
 .landing-wrapper{
     display: flex;
+    flex-direction: column;
     margin-top: 4%;
-
+}
+.top-landing-wrapper{
+    display: flex;
+    width: 100%;
+}
+.middle-landing-wrapper{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2%;
+}
+.middle-panel-wrapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;;
+}
+.most-wanted-products{
+    height: 366px;
+    width: 290px;
+    background-color: black;
+    color: wheat;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.most-wanted-products:not(#landing-item-one){
+    margin-left: 1%;
+}
+#middle-landing-title{
+    margin: 3%;
+    margin-bottom: 0%;
+}
+#MLD-description{
+    margin: 3%;
+    margin-top: 0.65%;
+    margin-bottom: 0.3%;
 }
 #main-description{
     display: flex;
@@ -13,7 +49,7 @@ body{
     align-items: center;
     flex-direction: column;
     align-content: center;
-    height: 400px;
+    height: 200px;
     width: 500px;
 }
 #slider-photo-gallery{
@@ -26,8 +62,8 @@ legend{
     font-family: 'Fjalla One', sans-serif;
 }
 #slider{
-    height: 400px;
-    width: 700px;
+    height: 200px;
+    width: 500px;
     background-color: black;
     margin-right: 2%;
     margin-left: 2%;
