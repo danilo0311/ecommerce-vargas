@@ -21,7 +21,7 @@
     <title>Ecommerce vargas&vegas</title>
     <script type="module">loadLandingPage()</script>
 </head>
-<body> 
+<body onload="notifyProgress()"> 
     <div class="container">
         <div class="header">
             <div class="header-buttons-wrapper">
@@ -70,7 +70,9 @@
 
         <div class="contact-wrapper"></div>
         <div class="body-wrapper"></div>
-        <div class="footer"></div>
+        <div class="footer">
+            <legend class="middle-landing-title" id="footer-meaningless-message">I'm the footer and i'm under construction!</legend>
+            </div>
         </div>
 </body>
 </html>
