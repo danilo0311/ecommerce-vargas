@@ -7,10 +7,10 @@ exitLogin = () => {
 let notifyProgress;
 
 notifyProgress = () => {
-    let progresoI = "PROGRESO: VENTANA DE CONTACTO AÑADIDA";
-    let progresoII = "LANDING PAGE: NUEVA SECCIÓN: PRODUCTOS MAS COTIZADOS";
+    let progresoI = "PROGRESO: VENTANA DE CATEGORIAS AÑADIDA";
+    // let progresoII = "LANDING PAGE: NUEVA SECCIÓN: PRODUCTOS MAS COTIZADOS";
     alert(progresoI);
-    alert(progresoII);
+    // alert(progresoII);
 }
 
 let categoryButtonHandler, displayCategory, hideCategory;
