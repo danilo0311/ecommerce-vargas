@@ -1,0 +1,23 @@
+1.BBQ-Parillas 
+2.Cuartos fríos
+3.Carritos
+4.Congelación
+5.Cámaras
+6.Congeladores
+7.Calor
+8.Cocinas
+9.Extración
+10.Estantes
+11.Freidores
+12.Fregaderos
+13.Urnas secas
+14.Hornos
+15.Lavamanos
+16.Mesas frías
+17.Planchas
+18.Refrigeración
+19.Urnas de calor
+20.Baño María
+21.Urnas frías
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
